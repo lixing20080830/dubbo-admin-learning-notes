@@ -4,3 +4,5 @@
 4 启动tomcat 
 5 浏览器访问：http://localhost:8888/dubbo-admin-2.6.0 即可。 （注：此处我的tomcat端口为8083） 
 6 输入用户名：root 密码：root
+
+参考来源：https://blog.csdn.net/u011019141/article/details/79685511
