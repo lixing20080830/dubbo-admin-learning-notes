@@ -1,6 +1,4 @@
-# dubbo-learning-notes
-
-### dubbo-admin安装
+# dubbo-admin安装
 
 1 下载 dubbo-admin-2.6.0.war，自己找资源啦，比如csdn,百度网盘<br>
 2 将该war包放到Tomcat目录下的webapps下，启动tomcat，会出现解压包<br>
